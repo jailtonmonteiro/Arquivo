@@ -12,3 +12,4 @@ E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\refint\Arquivo.dll
 E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\Arquivo.pdb
 E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\Arquivo.genruntimeconfig.cache
 E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\ref\Arquivo.dll
+E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\Arquivo.sourcelink.json
