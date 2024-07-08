@@ -7,25 +7,15 @@ namespace Arquivo
     {
         static void Main(string[] args)
         {
-            string sourcePath = @"E:\C#\register.txt";
-            string targetPath = @"E:\C#\register2.txt";
-
-            try
-            {
-                FileInfo fileInfo = new FileInfo(sourcePath);
-
-                fileInfo.CopyTo(targetPath);
-
-                string[] lines = File.ReadAllLines(sourcePath);
-                foreach (string line in lines)
-                {
-                    Console.WriteLine(line);
+            string path = @"E:\C#\register.txt";
+            
+            using(FileStream fs = new FileStream(path, FileMode.Open)){
+                using(StreamReader sr = new StreamReader(fs)){
+                    while(!sr.EndOfStream){
+                        string line = sr.ReadLine();
+                        Console.WriteLine(line);
+                    }
                 }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("An erro ocurred");
-                Console.WriteLine(ex.Message);
             }
         }
     }
