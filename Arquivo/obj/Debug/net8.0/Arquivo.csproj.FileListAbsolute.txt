@@ -1,0 +1,14 @@
+E:\C#\Arquivo\Arquivo\bin\Debug\net8.0\Arquivo.exe
+E:\C#\Arquivo\Arquivo\bin\Debug\net8.0\Arquivo.deps.json
+E:\C#\Arquivo\Arquivo\bin\Debug\net8.0\Arquivo.runtimeconfig.json
+E:\C#\Arquivo\Arquivo\bin\Debug\net8.0\Arquivo.dll
+E:\C#\Arquivo\Arquivo\bin\Debug\net8.0\Arquivo.pdb
+E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\Arquivo.AssemblyInfoInputs.cache
+E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\Arquivo.AssemblyInfo.cs
+E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\Arquivo.csproj.CoreCompileInputs.cache
+E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\Arquivo.dll
+E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\refint\Arquivo.dll
+E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\Arquivo.pdb
+E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\Arquivo.genruntimeconfig.cache
+E:\C#\Arquivo\Arquivo\obj\Debug\net8.0\ref\Arquivo.dll
